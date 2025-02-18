@@ -1,5 +1,5 @@
-FROM ghcr.io/ublue-os/silverblue-main:latest
-
+#FROM ghcr.io/ublue-os/silverblue-main:latest
+FROM ghcr.io/ublue-os/cosmic-silverblue:41
 ## Other possible base images include:
 # FROM ghcr.io/ublue-os/bazzite:stable
 # FROM ghcr.io/ublue-os/bluefin-nvidia:stable
